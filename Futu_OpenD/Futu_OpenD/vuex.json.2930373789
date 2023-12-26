@@ -1,0 +1,79 @@
+{
+	"state": {
+		"delayStatistics": {
+			"speedUpdateTime": null,
+			"rawSpeedObj": null,
+			"speedPushList": null
+		},
+		"ftConfig": {
+			"lang": "chs",
+			"apiPort": 11111,
+			"ip": "127.0.0.1",
+			"telnetPort": null,
+			"telnetIp": null,
+			"logLevel": "info",
+			"qotPushFrequency": 0,
+			"rsaPrivateKey": null,
+			"pushProtoType": 0,
+			"hasLoadXml": true,
+			"loginAccount": "18339912598",
+			"loginPwd": "83030",
+			"remember": true,
+			"autoLogin": false,
+			"usersConfig": null,
+			"logPath": "C:\\Users\\wanguangji\\AppData\\Roaming\\com.futunn.FutuOpenD\\Log",
+			"loginTestEnv": false,
+			"futureTradeTimeZone": "UTC+8",
+			"extraCmdParam": "",
+			"websocketIp": "127.0.0.1",
+			"websocketPort": "",
+			"iswebsocketPortSetByUser": false,
+			"websocketPrivateKey": "",
+			"websocketCert": "",
+			"websocketAuthKey": "",
+			"isAuthKeySetByUser": true,
+			"isWebsocketPortSetByUser": true
+		},
+		"ftOpenDState": {
+			"errorMsg": "登录超时",
+			"opendShellExitCode": 0,
+			"progress": 0,
+			"programStatus": {
+				"type": "ProgramStatusType_LoginFailed",
+				"strExtDesc": "账号名与密码不匹配，您还有8次机会"
+			},
+			"connectStatus": {
+				"qotLogined": false,
+				"trdLogined": true
+			},
+			"qotRight": {
+				"hkQotRight": 0,
+				"hkOptionQotRight": 0,
+				"hkFutureQotRight": 0,
+				"usQotRight": 0,
+				"usOptionQotRight": 0,
+				"usFutureQotRight": 0,
+				"usIndexQotRight": 0,
+				"usOTCQotRight": 0,
+				"shQotRight": 0,
+				"szQotRight": 0,
+				"sgFutureQotRight": 5,
+				"jpFutureQotRight": 5,
+				"usCMEFutureQotRight": 5,
+				"usCBOTFutureQotRight": 5,
+				"usNYMEXFutureQotRight": 5,
+				"usCOMEXFutureQotRight": 5,
+				"usCBOEFutureQotRight": 5
+			},
+			"nickName": "",
+			"avatarUrl": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg/120",
+			"userID": 0,
+			"loginStatus": 100,
+			"subQuota": 100,
+			"historyKLineQuota": 100,
+			"userAttribution": 1,
+			"usedSubQuota": 0,
+			"usedKLineQuota": 0
+		}
+	}
+}

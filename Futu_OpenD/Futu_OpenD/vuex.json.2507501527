@@ -1,0 +1,79 @@
+{
+	"state": {
+		"delayStatistics": {
+			"speedUpdateTime": null,
+			"rawSpeedObj": null,
+			"speedPushList": null
+		},
+		"ftConfig": {
+			"lang": "chs",
+			"apiPort": 11111,
+			"ip": "127.0.0.1",
+			"telnetPort": null,
+			"telnetIp": null,
+			"logLevel": "info",
+			"qotPushFrequency": 0,
+			"rsaPrivateKey": null,
+			"pushProtoType": 0,
+			"hasLoadXml": true,
+			"loginAccount": "18339912",
+			"loginPwd": "",
+			"remember": false,
+			"autoLogin": false,
+			"usersConfig": null,
+			"logPath": "C:\\Users\\wanguangji\\AppData\\Roaming\\com.futunn.FutuOpenD\\Log",
+			"loginTestEnv": false,
+			"futureTradeTimeZone": "UTC+8",
+			"extraCmdParam": "",
+			"websocketIp": "",
+			"websocketPort": "",
+			"iswebsocketPortSetByUser": false,
+			"websocketPrivateKey": "",
+			"websocketCert": "",
+			"websocketAuthKey": "",
+			"isAuthKeySetByUser": true,
+			"isWebsocketPortSetByUser": true
+		},
+		"ftOpenDState": {
+			"errorMsg": "",
+			"opendShellExitCode": 0,
+			"progress": 0,
+			"programStatus": {
+				"type": 0,
+				"strExtDesc": ""
+			},
+			"connectStatus": {
+				"qotLogined": true,
+				"trdLogined": true
+			},
+			"qotRight": {
+				"hkQotRight": 3,
+				"hkOptionQotRight": 3,
+				"hkFutureQotRight": 3,
+				"usQotRight": 5,
+				"usOptionQotRight": 5,
+				"usFutureQotRight": 0,
+				"usIndexQotRight": 5,
+				"usOTCQotRight": 5,
+				"shQotRight": 2,
+				"szQotRight": 2,
+				"sgFutureQotRight": 5,
+				"jpFutureQotRight": 5,
+				"usCMEFutureQotRight": 5,
+				"usCBOTFutureQotRight": 5,
+				"usNYMEXFutureQotRight": 5,
+				"usCOMEXFutureQotRight": 5,
+				"usCBOEFutureQotRight": 5
+			},
+			"nickName": "Dgrddfy",
+			"avatarUrl": "https://avatar.futunn.com/2021012708726716d49b0974b7a.png/270",
+			"userID": 25749687,
+			"loginStatus": 100,
+			"subQuota": 100,
+			"historyKLineQuota": 100,
+			"userAttribution": 1,
+			"usedSubQuota": 0,
+			"usedKLineQuota": 0
+		}
+	}
+}

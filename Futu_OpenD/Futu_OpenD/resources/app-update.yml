@@ -1,0 +1,3 @@
+provider: generic
+url: 'https://static.futunn.com/upload/'
+updaterCacheDirName: futu_opend-updater
